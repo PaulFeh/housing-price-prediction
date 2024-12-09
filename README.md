@@ -4,7 +4,7 @@ This project predicts housing prices in India using machine learning techniques.
 
 
 
-##How to Set Up and Use the Project
+How to Set Up and Use the Project
 Clone this repository:
 
 git clone https://github.com/yourusername/Housing_Price_Prediction.git
