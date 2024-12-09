@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.neighbors import KNeighborsRegressor
 
-df = pd.read_csv('Housing_Prices_India.csv')
+df = pd.read_csv('../data/Housing_Prices_Chennai.csv')
 
 df.replace(9, np.nan, inplace=True)  
 
